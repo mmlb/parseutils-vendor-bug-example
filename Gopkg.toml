@@ -1,0 +1,5 @@
+required = ["gopkg.in/src-d/go-kallax.v1/generator/cli/kallax"]
+
+[prune]
+  go-tests = true
+  unused-packages = true
